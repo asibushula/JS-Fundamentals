@@ -2,4 +2,4 @@
 
 const { argv } = require('process');
 
-console.log(process.argv[2] + 'is' + process.argv[3]);
+console.log(`${argv[2]} is + ${argv[3]}`);
