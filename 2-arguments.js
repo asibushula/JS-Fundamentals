@@ -3,7 +3,7 @@
 const { argv } = require('process');
 const argc = argv.length;
 
-if (argc < 3) {
+if (argc === 2) {
     console.log('No arguments');
 }   else if (argc === 3) {
     console.log('Argument found');
