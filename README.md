@@ -1,4 +1,4 @@
-####__Learning objectives__
+__Learning objectives__
 
 - Why JavaScript programming is amazing
 - How to run a JavaScript script
